@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FlashCards</string>
+    <string name="action_settings">Settings</string>
+    <string name="flip_card">Flip Card</string>
+    <string name="lastcard">Last Card</string>
+    <string name="nextCard">Next Card</string>
+    <string name="knownString">Known</string>
+    <string name="restartString">Restart</string>
+    <string name="startString">Start</string>
+    <string name="doAllString">Do All!</string>
+    <string name="title_activity_table_of_contents">TableOfContents</string>
+    <string name="endString">End</string>
+    <string name="list1">List 1</string>
+    <string name="list2">List 2</string>
+    <string name="list3">List 3</string>
+    <string name="list4">List 4</string>
+    <string name="list5">List 5</string>
+    <string name="list6">List 6</string>
+    <string name="list7">List 7</string>
+    <string name="list8">List 8</string>
+    <string name="exitString">Exit</string>
+    <string name="keepCardsString">Keep all known cards</string>
+    <string name="summaryStringFirstHalf">You knew</string>
+    <string name="summaryStringSecondHalf">cards!</string>
+    <string name="congratsString">Congratulations!</string>
+    <string name="soCloseString">So close!</string>
+    <string name="awString">Try harder!</string>
+    <string name="title_activity_finish_screen">FinishScreenActivity</string>
+    <string name="restartAllString">Restart All Cards</string>
+    <string name="toResultsString">To Results!</string>
+    <string name="title_activity_main_screen">MainScreenActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="downloadfromwebsitestring">Download</string>
+     <string name="fileNumberString">File Number</string>
+
+</resources>
